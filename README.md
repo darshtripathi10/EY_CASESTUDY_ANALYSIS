@@ -1,2 +1,2 @@
-# EY_CASESTUDY_ANALYSIS
-The Data Analysis for EY_2025Intern_CaseStudy
+# CASESTUDY_ANALYSIS
+The Data Analysis for 2025 Intern_CaseStudy
